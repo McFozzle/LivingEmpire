@@ -1,0 +1,42 @@
+name: Unity 2019 cloud preflight
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  source-and-editor-probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Check out Living Empire
+        uses: actions/checkout@v4
+      - name: Verify Living Empire source and data
+        run: python3 tools/validate.py
+      - name: Download pinned Daggerfall Unity 1.0.0 source
+        run: |
+          git clone --depth 1 --branch v1.0.0 https://github.com/Interkarma/daggerfall-unity.git /tmp/dfu
+          test -d /tmp/dfu/Assets
+          test -d /tmp/dfu/ProjectSettings
+          echo 'Daggerfall Unity source tag: v1.0.0' >> "$GITHUB_STEP_SUMMARY"
+          echo "DFU commit: $(git -C /tmp/dfu rev-parse HEAD)" >> "$GITHUB_STEP_SUMMARY"
+      - name: Inspect Unity project and Mod Builder source
+        run: |
+          echo 'Unity project version:'
+          cat /tmp/dfu/ProjectSettings/ProjectVersion.txt
+          echo 'Candidate mod builder scripts:'
+          find /tmp/dfu/Assets -iname '*modbuilder*.cs' -o -iname '*modbuilder*.json' | head -30
+          echo 'Editor version declared by pinned DFU source:' >> "$GITHUB_STEP_SUMMARY"
+          cat /tmp/dfu/ProjectSettings/ProjectVersion.txt >> "$GITHUB_STEP_SUMMARY"
+          if ! grep -q '2019.4.40f1' /tmp/dfu/ProjectSettings/ProjectVersion.txt; then
+            echo 'WARNING: Editor version differs from 2019.4.40f1. Inspect source project before building.' >> "$GITHUB_STEP_SUMMARY"
+          fi
+      - name: Verify compatible Unity Editor Docker image is available
+        run: |
+          IMAGE='unityci/editor:ubuntu-2019.4.40f1-base-1'
+          echo "Inspecting $IMAGE"
+          docker manifest inspect "$IMAGE" >/dev/null
+          echo "Unity Editor image manifest exists: $IMAGE" >> "$GITHUB_STEP_SUMMARY"
+      - name: Confirm cloud preflight scope
+        run: |
+          echo 'Cloud source and Unity image checks completed.' >> "$GITHUB_STEP_SUMMARY"
+          echo 'This job does not run Unity, activate a license, compile scripts, or create a .dfmod.' >> "$GITHUB_STEP_SUMMARY"
