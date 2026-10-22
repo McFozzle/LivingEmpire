@@ -1,0 +1,155 @@
+﻿FactionID,Name,Type,RawRegion,Reason
+17,Oblivion,2,-1,no explicit geographic region
+1,Clavicus Vile,0,-1,no explicit geographic region
+2,Mehrunes Dagon,0,-1,no explicit geographic region
+3,Molag Bal,0,-1,no explicit geographic region
+4,Hircine,0,-1,no explicit geographic region
+5,Sanguine,0,-1,no explicit geographic region
+6,Peryite,0,-1,no explicit geographic region
+7,Malacath,0,-1,no explicit geographic region
+8,Hermaeus Mora,0,-1,no explicit geographic region
+10,Boethiah,0,-1,no explicit geographic region
+11,Namira,0,-1,no explicit geographic region
+12,Meridia,0,-1,no explicit geographic region
+13,Vaernima,0,-1,no explicit geographic region
+14,Nocturnal,0,-1,no explicit geographic region
+15,Mephala,0,-1,no explicit geographic region
+356,The Night Mother,4,-1,no explicit geographic region
+108,The Dark Brotherhood,2,-1,no explicit geographic region
+839,Dark Trainers,3,-1,no explicit geographic region
+840,Dark Mixers,3,-1,no explicit geographic region
+841,Venom Masters,3,-1,no explicit geographic region
+842,Dark Plotters,3,-1,no explicit geographic region
+843,Dark Binders,3,-1,no explicit geographic region
+807,Dark Slayers,3,-1,no explicit geographic region
+16,Azura,0,-1,no explicit geographic region
+9,Sheogorath,0,-1,no explicit geographic region
+450,Generic Temple,9,-1,no explicit geographic region
+240,Temple Missionaries,3,-1,no explicit geographic region
+810,Temple Treasurers,3,-1,no explicit geographic region
+813,Temple Healers,3,-1,no explicit geographic region
+811,Temple Blessers,3,-1,no explicit geographic region
+25,Ebonarm,1,-1,no explicit geographic region
+90,The Citadel of Ebonarm,9,-1,no explicit geographic region
+91,The Battlelords,3,-1,no explicit geographic region
+21,Arkay,1,-1,no explicit geographic region
+82,The Order of Arkay,9,-1,no explicit geographic region
+83,The Knights of the Circle,3,-1,no explicit geographic region
+453,Apothecaries of Arkay,3,-1,no explicit geographic region
+454,Mixers of Arkay,3,-1,no explicit geographic region
+456,Summoners of Arkay,3,-1,no explicit geographic region
+455,Binders of Arkay,3,-1,no explicit geographic region
+241,Teachers of Arkay,3,-1,no explicit geographic region
+22,Zen,1,-1,no explicit geographic region
+84,The Resolution of Z'en,9,-1,no explicit geographic region
+85,The Knights of Iron,3,-1,no explicit geographic region
+462,Apothecaries of Z'en,3,-1,no explicit geographic region
+463,Mixers of Z'en,3,-1,no explicit geographic region
+464,Summonists of Z'en,3,-1,no explicit geographic region
+243,Teachers of Z'en,3,-1,no explicit geographic region
+24,Mara,1,-1,no explicit geographic region
+88,The Benevolence of Mara,2,-1,no explicit geographic region
+89,The Maran Knights,3,-1,no explicit geographic region
+468,Apothecaries of Mara,3,-1,no explicit geographic region
+469,Mixers of Mara,3,-1,no explicit geographic region
+470,Summoners of Mara,3,-1,no explicit geographic region
+245,Teachers of Mara,3,-1,no explicit geographic region
+26,Akatosh,1,-1,no explicit geographic region
+92,The Akatosh Chantry,9,-1,no explicit geographic region
+93,The Order of the Hour,3,-1,no explicit geographic region
+473,Apothecaries of Akatosh,3,-1,no explicit geographic region
+474,Mixers of Akatosh,3,-1,no explicit geographic region
+475,Summoners of Akatosh,3,-1,no explicit geographic region
+247,Teachers of Akatosh,3,-1,no explicit geographic region
+27,Julianos,1,-1,no explicit geographic region
+94,The School of Julianos,9,-1,no explicit geographic region
+95,The Knights Mentor,3,-1,no explicit geographic region
+480,Crafters of Julianos,3,-1,no explicit geographic region
+481,Smiths of Julianos,3,-1,no explicit geographic region
+482,Summoners of Julianos,3,-1,no explicit geographic region
+249,Teachers of Julianos,3,-1,no explicit geographic region
+29,Dibella,1,-1,no explicit geographic region
+98,The House of Dibella,9,-1,no explicit geographic region
+99,The Order of the Lily,3,-1,no explicit geographic region
+485,Apothecaries of Dibella,3,-1,no explicit geographic region
+487,Mixers of Dibella,3,-1,no explicit geographic region
+488,Summoners of Dibella,3,-1,no explicit geographic region
+250,Teachers of Dibella,3,-1,no explicit geographic region
+33,Stendarr,1,-1,no explicit geographic region
+106,The Temple of Stendarr,9,-1,no explicit geographic region
+107,The Crusaders,3,-1,no explicit geographic region
+490,Apothecaries of Stendarr,3,-1,no explicit geographic region
+491,Mixers of Stendarr,3,-1,no explicit geographic region
+492,Summoners of Stendarr,3,-1,no explicit geographic region
+252,Teachers of Stendarr,3,-1,no explicit geographic region
+35,Kynareth,1,-1,no explicit geographic region
+36,The Temple of Kynareth,9,-1,no explicit geographic region
+37,The Kynaran Order,3,-1,no explicit geographic region
+497,Spellsmiths of Kynareth,3,-1,no explicit geographic region
+498,Summoners of Kynareth,3,-1,no explicit geographic region
+496,Enchanters of Kynareth,3,-1,no explicit geographic region
+254,Teachers of Kynareth,3,-1,no explicit geographic region
+977,Secret of Oblivion,1,-1,no explicit geographic region
+40,The Mages Guild,2,-1,no explicit geographic region
+68,The Archmagister,5,-1,no explicit geographic region
+69,The Guildmagister,5,-1,no explicit geographic region
+71,The Master of Incunabula,5,-1,no explicit geographic region
+70,The Master of Academia,5,-1,no explicit geographic region
+74,The Master of the Scry,5,-1,no explicit geographic region
+72,The Master at Arms,5,-1,no explicit geographic region
+73,The Palatinus,5,-1,no explicit geographic region
+76,The Master of Initiates,5,-1,no explicit geographic region
+60,The Academics,3,-1,no explicit geographic region
+61,The Patricians,3,-1,no explicit geographic region
+62,The Travelers League,3,-1,no explicit geographic region
+63,The Mercenary Mages,3,-1,no explicit geographic region
+64,The Isolationists,3,-1,no explicit geographic region
+65,The Utility Mages,3,-1,no explicit geographic region
+66,The Cabal,3,-1,no explicit geographic region
+67,The Order of the Lamp,3,-1,no explicit geographic region
+801,The Odylic Mages,3,-1,no explicit geographic region
+802,The Crafters,3,-1,no explicit geographic region
+150,The Vraseth,6,63,special faction region code
+151,The Haarvenu,6,64,special faction region code
+152,The Thrafey,6,65,special faction region code
+153,The Lyrezi,6,66,special faction region code
+154,The Montalion,6,67,special faction region code
+155,The Khulari,6,68,special faction region code
+156,The Garlythi,6,69,special faction region code
+157,The Anthotis,6,70,special faction region code
+158,The Selenu,6,71,special faction region code
+41,The Fighters Guild,2,-1,no explicit geographic region
+849,Fighter Trainers,3,-1,no explicit geographic region
+850,Fighter Equippers,3,-1,no explicit geographic region
+851,Fighter Questers,3,-1,no explicit geographic region
+42,The Thieves Guild,2,-1,no explicit geographic region
+77,The Guildmaster,5,-1,no explicit geographic region
+18,The Master of Initiates,5,-1,no explicit geographic region
+803,The Shadow Trainers,3,-1,no explicit geographic region
+804,The Shadow Schemers,3,-1,no explicit geographic region
+805,The Shadow Appraisers,3,-1,no explicit geographic region
+806,The Shadow Spies,3,-1,no explicit geographic region
+852,Random Ruler,7,-1,no explicit geographic region
+242,Random Noble,5,-1,no explicit geographic region
+853,Random Knight,5,-1,no explicit geographic region
+844,Generic Knightly Order,2,-1,no explicit geographic region
+845,Smiths,3,-1,no explicit geographic region
+846,Questers,3,-1,no explicit geographic region
+847,Healers,3,-1,no explicit geographic region
+848,Seneschal,3,-1,no explicit geographic region
+236,Cybiades,7,62,special faction region code
+583,Court of Cybiades,14,62,special faction region code
+584,People of Cybiades,15,62,special faction region code
+305,King of Worms,4,-1,no explicit geographic region
+306,The Necromancers,2,-1,no explicit geographic region
+350,The Septim Empire,7,-1,no explicit geographic region
+351,The Great Knight,4,-1,no explicit geographic region
+129,The Blades,2,-1,no explicit geographic region
+352,Lady Brisienna,4,-1,no explicit geographic region
+353,The Underking,4,-1,no explicit geographic region
+354,Agents of The Underking,2,-1,no explicit geographic region
+510,The Merchants,2,-1,no explicit geographic region
+511,The Bards,2,-1,no explicit geographic region
+512,The Prostitutes,2,-1,no explicit geographic region
+514,Children,2,-1,no explicit geographic region
+515,Dancers,2,-1,no explicit geographic region

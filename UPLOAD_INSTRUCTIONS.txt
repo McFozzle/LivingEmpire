@@ -1,0 +1,11 @@
+GITHUB UPLOAD — Living Empire v0.7
+
+1. Extract this ZIP on your PC.
+2. On github.com/McFozzle/LivingEmpire/upload, drag the CONTENTS of the extracted folder (README.md, src, data, tools, .github) into the upload area. DO NOT upload the ZIP itself.
+3. Before committing, check that GitHub shows the files in src/ and data/.
+4. Click Commit changes.
+5. Open the Actions tab and check for Validate Living Empire source and data.
+
+If the browser does not upload the hidden .github folder, create the workflow separately using Add file > Create new file, enter the path .github/workflows/validate.yml, and paste its contents.
+
+The workflow is a SOURCE/DATA validation only, not a .dfmod builder.
