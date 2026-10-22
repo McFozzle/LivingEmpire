@@ -1,0 +1,256 @@
+﻿FactionID,FactionName,RegionID,RegionName,CountyName,CanonicalPower,InfluenceType,Evidence,TransfersSovereignty
+200,Dwynnen,6,Ravennian Forest,Ravennian Forest Crown County,70,institutional,provisional-inferred,no
+200,Dwynnen,6,Ravennian Forest,Ravennian Forest Caerwyn County,70,institutional,provisional-inferred,no
+200,Dwynnen,6,Ravennian Forest,Ravennian Forest Brynwyn County,70,institutional,provisional-inferred,no
+200,Dwynnen,6,Ravennian Forest,Ravennian Forest Glenwyn County,70,institutional,provisional-inferred,no
+516,Court of Dwynnen,6,Ravennian Forest,Ravennian Forest Brynwyn County,50,institutional,provisional-inferred,no
+516,Court of Dwynnen,6,Ravennian Forest,Ravennian Forest Glenwyn County,50,institutional,provisional-inferred,no
+516,Court of Dwynnen,6,Ravennian Forest,Ravennian Forest Crown County,50,institutional,provisional-inferred,no
+414,The Order of the Raven,6,Ravennian Forest,Ravennian Forest Caerwyn County,25,institutional,provisional-inferred,no
+201,Daggerfall,18,Glenpoint,Glenpoint Rhydwyn County,80,institutional,provisional-inferred,no
+201,Daggerfall,18,Glenpoint,Glenpoint Crown County,80,institutional,provisional-inferred,no
+201,Daggerfall,18,Glenpoint,Glenpoint Caerwyn County,80,institutional,provisional-inferred,no
+201,Daggerfall,18,Glenpoint,Glenpoint Brynwyn County,80,institutional,provisional-inferred,no
+372,The Royal Guard,18,Glenpoint,Glenpoint Morwyn County,22,institutional,provisional-inferred,no
+368,The Knights of the Dragon,18,Glenpoint,Glenpoint Penwyn County,20,institutional,provisional-inferred,no
+595,Court of Daggerfall,18,Glenpoint,Glenpoint Crown County,25,institutional,provisional-inferred,no
+203,Betony,20,Sentinel,Sentinel Sahhad County,50,institutional,provisional-inferred,no
+203,Betony,20,Sentinel,Sentinel Tanhad County,50,institutional,provisional-inferred,no
+203,Betony,20,Sentinel,Sentinel Zarhad County,50,institutional,provisional-inferred,no
+519,Court of Betony,20,Sentinel,Sentinel Khahad County,25,institutional,provisional-inferred,no
+202,Glenpoint,19,Betony,Betony Penwyn County,50,institutional,provisional-inferred,no
+202,Glenpoint,19,Betony,Betony Rhydwyn County,50,institutional,provisional-inferred,no
+202,Glenpoint,19,Betony,Betony Crown County,50,institutional,provisional-inferred,no
+521,Court of Glenpoint,19,Betony,Betony Glenwyn County,50,institutional,provisional-inferred,no
+521,Court of Glenpoint,19,Betony,Betony Dunwyn County,50,institutional,provisional-inferred,no
+521,Court of Glenpoint,19,Betony,Betony Morwyn County,50,institutional,provisional-inferred,no
+413,The Knights of the Owl,19,Betony,Betony Rhydwyn County,15,institutional,provisional-inferred,no
+204,Sentinel,21,Anticlere,Anticlere Penwyn County,75,institutional,provisional-inferred,no
+204,Sentinel,21,Anticlere,Anticlere Rhydwyn County,75,institutional,provisional-inferred,no
+204,Sentinel,21,Anticlere,Anticlere Crown County,75,institutional,provisional-inferred,no
+204,Sentinel,21,Anticlere,Anticlere Caerwyn County,75,institutional,provisional-inferred,no
+384,The Royal Guards,21,Anticlere,Anticlere Crown County,5,institutional,provisional-inferred,no
+408,The Order of the Candle,21,Anticlere,Anticlere Crown County,20,institutional,provisional-inferred,no
+596,Court of Sentinel,21,Anticlere,Anticlere Caerwyn County,25,institutional,provisional-inferred,no
+205,Anticlere,22,Lainlyn,Lainlyn Zarhad County,60,institutional,provisional-inferred,no
+205,Anticlere,22,Lainlyn,Lainlyn Crown County,60,institutional,provisional-inferred,no
+205,Anticlere,22,Lainlyn,Lainlyn Alhad County,60,institutional,provisional-inferred,no
+410,The Knights of the Flame,22,Lainlyn,Lainlyn Khahad County,20,institutional,provisional-inferred,no
+597,Court of Anticlere,22,Lainlyn,Lainlyn Zarhad County,25,institutional,provisional-inferred,no
+206,Lainlyn,23,Wayrest,Wayrest Glenwyn County,72,institutional,provisional-inferred,no
+206,Lainlyn,23,Wayrest,Wayrest Dunwyn County,72,institutional,provisional-inferred,no
+206,Lainlyn,23,Wayrest,Wayrest Morwyn County,72,institutional,provisional-inferred,no
+206,Lainlyn,23,Wayrest,Wayrest Penwyn County,72,institutional,provisional-inferred,no
+411,The Host of the Horn,23,Wayrest,Wayrest Glenwyn County,25,institutional,provisional-inferred,no
+246,Court of Lainlyn,23,Wayrest,Wayrest Caerwyn County,25,institutional,provisional-inferred,no
+207,Wayrest,24,Gen Tem High Rock village,Gen Tem High Rock village Brynwyn County,80,institutional,provisional-inferred,no
+207,Wayrest,24,Gen Tem High Rock village,Gen Tem High Rock village Glenwyn County,80,institutional,provisional-inferred,no
+207,Wayrest,24,Gen Tem High Rock village,Gen Tem High Rock village Crown County,80,institutional,provisional-inferred,no
+207,Wayrest,24,Gen Tem High Rock village,Gen Tem High Rock village Caerwyn County,80,institutional,provisional-inferred,no
+409,The Knights of the Rose,24,Gen Tem High Rock village,Gen Tem High Rock village Caerwyn County,20,institutional,provisional-inferred,no
+499,Court of Wayrest,24,Gen Tem High Rock village,Gen Tem High Rock village Brynwyn County,25,institutional,provisional-inferred,no
+208,Northmoor,33,Menevia,Menevia Dunwyn County,50,institutional,provisional-inferred,no
+208,Northmoor,33,Menevia,Menevia Morwyn County,50,institutional,provisional-inferred,no
+208,Northmoor,33,Menevia,Menevia Penwyn County,50,institutional,provisional-inferred,no
+527,Court of Northmoor,33,Menevia,Menevia Rhydwyn County,50,institutional,provisional-inferred,no
+527,Court of Northmoor,33,Menevia,Menevia Crown County,50,institutional,provisional-inferred,no
+527,Court of Northmoor,33,Menevia,Menevia Caerwyn County,50,institutional,provisional-inferred,no
+209,Menevia,34,Alcaire,Alcaire Rhydwyn County,70,institutional,provisional-inferred,no
+209,Menevia,34,Alcaire,Alcaire Crown County,70,institutional,provisional-inferred,no
+209,Menevia,34,Alcaire,Alcaire Caerwyn County,70,institutional,provisional-inferred,no
+209,Menevia,34,Alcaire,Alcaire Brynwyn County,70,institutional,provisional-inferred,no
+529,Court of Menevia,34,Alcaire,Alcaire Brynwyn County,50,institutional,provisional-inferred,no
+529,Court of Menevia,34,Alcaire,Alcaire Glenwyn County,50,institutional,provisional-inferred,no
+529,Court of Menevia,34,Alcaire,Alcaire Dunwyn County,50,institutional,provisional-inferred,no
+210,Alcaire,35,Koegria,Koegria Crown County,60,institutional,provisional-inferred,no
+210,Alcaire,35,Koegria,Koegria Caerwyn County,60,institutional,provisional-inferred,no
+210,Alcaire,35,Koegria,Koegria Brynwyn County,60,institutional,provisional-inferred,no
+531,Court of Alcaire,35,Koegria,Koegria Caerwyn County,50,institutional,provisional-inferred,no
+531,Court of Alcaire,35,Koegria,Koegria Brynwyn County,50,institutional,provisional-inferred,no
+531,Court of Alcaire,35,Koegria,Koegria Glenwyn County,50,institutional,provisional-inferred,no
+211,Koegria,36,Bhoriane,Bhoriane Glenwyn County,55,institutional,provisional-inferred,no
+211,Koegria,36,Bhoriane,Bhoriane Dunwyn County,55,institutional,provisional-inferred,no
+211,Koegria,36,Bhoriane,Bhoriane Morwyn County,55,institutional,provisional-inferred,no
+533,Court of Koegria,36,Bhoriane,Bhoriane Morwyn County,50,institutional,provisional-inferred,no
+533,Court of Koegria,36,Bhoriane,Bhoriane Penwyn County,50,institutional,provisional-inferred,no
+533,Court of Koegria,36,Bhoriane,Bhoriane Rhydwyn County,50,institutional,provisional-inferred,no
+212,Bhoriane,37,Kambria,Kambria Crown County,50,institutional,provisional-inferred,no
+212,Bhoriane,37,Kambria,Kambria Caerwyn County,50,institutional,provisional-inferred,no
+212,Bhoriane,37,Kambria,Kambria Brynwyn County,50,institutional,provisional-inferred,no
+535,Court of Bhoriane,37,Kambria,Kambria Penwyn County,50,institutional,provisional-inferred,no
+535,Court of Bhoriane,37,Kambria,Kambria Rhydwyn County,50,institutional,provisional-inferred,no
+535,Court of Bhoriane,37,Kambria,Kambria Crown County,50,institutional,provisional-inferred,no
+213,Kambria,38,Phrygias,Phrygias Brynwyn County,60,institutional,provisional-inferred,no
+213,Kambria,38,Phrygias,Phrygias Glenwyn County,60,institutional,provisional-inferred,no
+213,Kambria,38,Phrygias,Phrygias Dunwyn County,60,institutional,provisional-inferred,no
+537,Court of Kambria,38,Phrygias,Phrygias Caerwyn County,50,institutional,provisional-inferred,no
+537,Court of Kambria,38,Phrygias,Phrygias Brynwyn County,50,institutional,provisional-inferred,no
+537,Court of Kambria,38,Phrygias,Phrygias Glenwyn County,50,institutional,provisional-inferred,no
+214,Phrygias,39,Urvaius,Urvaius Brynwyn County,60,institutional,provisional-inferred,no
+214,Phrygias,39,Urvaius,Urvaius Glenwyn County,60,institutional,provisional-inferred,no
+214,Phrygias,39,Urvaius,Urvaius Dunwyn County,60,institutional,provisional-inferred,no
+539,Court of Phrygias,39,Urvaius,Urvaius Caerwyn County,50,institutional,provisional-inferred,no
+539,Court of Phrygias,39,Urvaius,Urvaius Brynwyn County,50,institutional,provisional-inferred,no
+539,Court of Phrygias,39,Urvaius,Urvaius Glenwyn County,50,institutional,provisional-inferred,no
+215,Urvaius,40,Ykalon,Ykalon Morwyn County,55,institutional,provisional-inferred,no
+215,Urvaius,40,Ykalon,Ykalon Penwyn County,55,institutional,provisional-inferred,no
+215,Urvaius,40,Ykalon,Ykalon Rhydwyn County,55,institutional,provisional-inferred,no
+541,Court of Urvaius,40,Ykalon,Ykalon Rhydwyn County,50,institutional,provisional-inferred,no
+541,Court of Urvaius,40,Ykalon,Ykalon Crown County,50,institutional,provisional-inferred,no
+541,Court of Urvaius,40,Ykalon,Ykalon Caerwyn County,50,institutional,provisional-inferred,no
+216,Ykalon,41,Daenia,Daenia Crown County,55,institutional,provisional-inferred,no
+216,Ykalon,41,Daenia,Daenia Caerwyn County,55,institutional,provisional-inferred,no
+216,Ykalon,41,Daenia,Daenia Brynwyn County,55,institutional,provisional-inferred,no
+543,Court of Ykalon,41,Daenia,Daenia Caerwyn County,25,institutional,provisional-inferred,no
+217,Daenia,42,Shalgora,Shalgora Penwyn County,42,institutional,provisional-inferred,no
+217,Daenia,42,Shalgora,Shalgora Rhydwyn County,42,institutional,provisional-inferred,no
+545,Court of Daenia,42,Shalgora,Shalgora Morwyn County,40,institutional,provisional-inferred,no
+545,Court of Daenia,42,Shalgora,Shalgora Penwyn County,40,institutional,provisional-inferred,no
+218,Shalgora,43,Abibon-Gora,Abibon-Gora Crown County,52,institutional,provisional-inferred,no
+218,Shalgora,43,Abibon-Gora,Abibon-Gora Alhad County,52,institutional,provisional-inferred,no
+218,Shalgora,43,Abibon-Gora,Abibon-Gora Darhad County,52,institutional,provisional-inferred,no
+547,Court of Shalgora,43,Abibon-Gora,Abibon-Gora Zarhad County,50,institutional,provisional-inferred,no
+547,Court of Shalgora,43,Abibon-Gora,Abibon-Gora Crown County,50,institutional,provisional-inferred,no
+547,Court of Shalgora,43,Abibon-Gora,Abibon-Gora Alhad County,50,institutional,provisional-inferred,no
+219,Abibon-Gora,44,Kairou,Kairou Khahad County,71,institutional,provisional-inferred,no
+219,Abibon-Gora,44,Kairou,Kairou Rahad County,71,institutional,provisional-inferred,no
+219,Abibon-Gora,44,Kairou,Kairou Sahhad County,71,institutional,provisional-inferred,no
+219,Abibon-Gora,44,Kairou,Kairou Tanhad County,71,institutional,provisional-inferred,no
+549,Court of Abibon-Gora,44,Kairou,Kairou Zarhad County,51,institutional,provisional-inferred,no
+549,Court of Abibon-Gora,44,Kairou,Kairou Crown County,51,institutional,provisional-inferred,no
+549,Court of Abibon-Gora,44,Kairou,Kairou Alhad County,51,institutional,provisional-inferred,no
+415,The Knights of the Wheel,44,Kairou,Kairou Darhad County,20,institutional,provisional-inferred,no
+220,Kairou,45,Pothago,Pothago Sahhad County,52,institutional,provisional-inferred,no
+220,Kairou,45,Pothago,Pothago Tanhad County,52,institutional,provisional-inferred,no
+220,Kairou,45,Pothago,Pothago Zarhad County,52,institutional,provisional-inferred,no
+551,Court of Kairou,45,Pothago,Pothago Rahad County,50,institutional,provisional-inferred,no
+551,Court of Kairou,45,Pothago,Pothago Sahhad County,50,institutional,provisional-inferred,no
+551,Court of Kairou,45,Pothago,Pothago Tanhad County,50,institutional,provisional-inferred,no
+221,Pothago,46,Myrkwasa,Myrkwasa Rahad County,62,institutional,provisional-inferred,no
+221,Pothago,46,Myrkwasa,Myrkwasa Sahhad County,62,institutional,provisional-inferred,no
+221,Pothago,46,Myrkwasa,Myrkwasa Tanhad County,62,institutional,provisional-inferred,no
+553,Court of Pothago,46,Myrkwasa,Myrkwasa Khahad County,50,institutional,provisional-inferred,no
+553,Court of Pothago,46,Myrkwasa,Myrkwasa Rahad County,50,institutional,provisional-inferred,no
+553,Court of Pothago,46,Myrkwasa,Myrkwasa Sahhad County,50,institutional,provisional-inferred,no
+222,Myrkwasa,47,Ayasofya,Ayasofya Darhad County,60,institutional,provisional-inferred,no
+222,Myrkwasa,47,Ayasofya,Ayasofya Khahad County,60,institutional,provisional-inferred,no
+222,Myrkwasa,47,Ayasofya,Ayasofya Rahad County,60,institutional,provisional-inferred,no
+555,Court of Myrkwasa,47,Ayasofya,Ayasofya Crown County,50,institutional,provisional-inferred,no
+555,Court of Myrkwasa,47,Ayasofya,Ayasofya Alhad County,50,institutional,provisional-inferred,no
+555,Court of Myrkwasa,47,Ayasofya,Ayasofya Darhad County,50,institutional,provisional-inferred,no
+223,Ayasofya,48,Tigonus,Tigonus Tanhad County,67,institutional,provisional-inferred,no
+223,Ayasofya,48,Tigonus,Tigonus Zarhad County,67,institutional,provisional-inferred,no
+223,Ayasofya,48,Tigonus,Tigonus Crown County,67,institutional,provisional-inferred,no
+223,Ayasofya,48,Tigonus,Tigonus Alhad County,67,institutional,provisional-inferred,no
+557,Court of Ayasofya,48,Tigonus,Tigonus Zarhad County,51,institutional,provisional-inferred,no
+557,Court of Ayasofya,48,Tigonus,Tigonus Crown County,51,institutional,provisional-inferred,no
+557,Court of Ayasofya,48,Tigonus,Tigonus Alhad County,51,institutional,provisional-inferred,no
+224,Tigonus,49,Kozanset,Kozanset Tanhad County,65,institutional,provisional-inferred,no
+224,Tigonus,49,Kozanset,Kozanset Zarhad County,65,institutional,provisional-inferred,no
+224,Tigonus,49,Kozanset,Kozanset Crown County,65,institutional,provisional-inferred,no
+559,Court of Tigonus,49,Kozanset,Kozanset Alhad County,50,institutional,provisional-inferred,no
+559,Court of Tigonus,49,Kozanset,Kozanset Darhad County,50,institutional,provisional-inferred,no
+559,Court of Tigonus,49,Kozanset,Kozanset Khahad County,50,institutional,provisional-inferred,no
+225,Kozanset,50,Satakalaam,Satakalaam Alhad County,50,institutional,provisional-inferred,no
+225,Kozanset,50,Satakalaam,Satakalaam Darhad County,50,institutional,provisional-inferred,no
+225,Kozanset,50,Satakalaam,Satakalaam Khahad County,50,institutional,provisional-inferred,no
+561,Court of Kozanset,50,Satakalaam,Satakalaam Zarhad County,50,institutional,provisional-inferred,no
+561,Court of Kozanset,50,Satakalaam,Satakalaam Crown County,50,institutional,provisional-inferred,no
+561,Court of Kozanset,50,Satakalaam,Satakalaam Alhad County,50,institutional,provisional-inferred,no
+226,Satakalaam,51,Totambu,Totambu Khahad County,74,institutional,provisional-inferred,no
+226,Satakalaam,51,Totambu,Totambu Rahad County,74,institutional,provisional-inferred,no
+226,Satakalaam,51,Totambu,Totambu Sahhad County,74,institutional,provisional-inferred,no
+226,Satakalaam,51,Totambu,Totambu Tanhad County,74,institutional,provisional-inferred,no
+563,Court of Satakalaam,51,Totambu,Totambu Alhad County,51,institutional,provisional-inferred,no
+563,Court of Satakalaam,51,Totambu,Totambu Darhad County,51,institutional,provisional-inferred,no
+563,Court of Satakalaam,51,Totambu,Totambu Khahad County,51,institutional,provisional-inferred,no
+227,Totambu,52,Mournoth,Mournoth Khahad County,62,institutional,provisional-inferred,no
+227,Totambu,52,Mournoth,Mournoth Rahad County,62,institutional,provisional-inferred,no
+227,Totambu,52,Mournoth,Mournoth Sahhad County,62,institutional,provisional-inferred,no
+565,Court of Totambu,52,Mournoth,Mournoth Darhad County,50,institutional,provisional-inferred,no
+565,Court of Totambu,52,Mournoth,Mournoth Khahad County,50,institutional,provisional-inferred,no
+565,Court of Totambu,52,Mournoth,Mournoth Rahad County,50,institutional,provisional-inferred,no
+416,The Order of the Scarab,52,Mournoth,Mournoth Zarhad County,17,institutional,provisional-inferred,no
+228,Mournoth,53,Ephesus,Ephesus Tanhad County,72,institutional,provisional-inferred,no
+228,Mournoth,53,Ephesus,Ephesus Zarhad County,72,institutional,provisional-inferred,no
+228,Mournoth,53,Ephesus,Ephesus Crown County,72,institutional,provisional-inferred,no
+228,Mournoth,53,Ephesus,Ephesus Alhad County,72,institutional,provisional-inferred,no
+567,Court of Mournoth,53,Ephesus,Ephesus Sahhad County,51,institutional,provisional-inferred,no
+567,Court of Mournoth,53,Ephesus,Ephesus Tanhad County,51,institutional,provisional-inferred,no
+567,Court of Mournoth,53,Ephesus,Ephesus Zarhad County,51,institutional,provisional-inferred,no
+229,Ephesus,54,Santaki,Santaki Sahhad County,52,institutional,provisional-inferred,no
+229,Ephesus,54,Santaki,Santaki Tanhad County,52,institutional,provisional-inferred,no
+229,Ephesus,54,Santaki,Santaki Zarhad County,52,institutional,provisional-inferred,no
+569,Court of Ephesus,54,Santaki,Santaki Zarhad County,51,institutional,provisional-inferred,no
+569,Court of Ephesus,54,Santaki,Santaki Crown County,51,institutional,provisional-inferred,no
+569,Court of Ephesus,54,Santaki,Santaki Alhad County,51,institutional,provisional-inferred,no
+230,Santaki,55,Antiphyllos,Antiphyllos Darhad County,50,institutional,provisional-inferred,no
+230,Santaki,55,Antiphyllos,Antiphyllos Khahad County,50,institutional,provisional-inferred,no
+230,Santaki,55,Antiphyllos,Antiphyllos Rahad County,50,institutional,provisional-inferred,no
+571,Court of Santaki,55,Antiphyllos,Antiphyllos Sahhad County,51,institutional,provisional-inferred,no
+571,Court of Santaki,55,Antiphyllos,Antiphyllos Tanhad County,51,institutional,provisional-inferred,no
+571,Court of Santaki,55,Antiphyllos,Antiphyllos Zarhad County,51,institutional,provisional-inferred,no
+231,Antiphyllos,56,Bergama,Bergama Crown County,50,institutional,provisional-inferred,no
+231,Antiphyllos,56,Bergama,Bergama Alhad County,50,institutional,provisional-inferred,no
+231,Antiphyllos,56,Bergama,Bergama Darhad County,50,institutional,provisional-inferred,no
+573,Court of Antiphyllos,56,Bergama,Bergama Sahhad County,25,institutional,provisional-inferred,no
+417,The Knights of the Hawk,56,Bergama,Bergama Crown County,25,institutional,provisional-inferred,no
+232,Bergama,57,Gavaudon,Gavaudon Khahad County,50,institutional,provisional-inferred,no
+232,Bergama,57,Gavaudon,Gavaudon Rahad County,50,institutional,provisional-inferred,no
+232,Bergama,57,Gavaudon,Gavaudon Sahhad County,50,institutional,provisional-inferred,no
+575,Court of Bergama,57,Gavaudon,Gavaudon Khahad County,45,institutional,provisional-inferred,no
+575,Court of Bergama,57,Gavaudon,Gavaudon Rahad County,45,institutional,provisional-inferred,no
+233,Gavaudon,58,Tulune,Tulune Crown County,50,institutional,provisional-inferred,no
+233,Gavaudon,58,Tulune,Tulune Caerwyn County,50,institutional,provisional-inferred,no
+233,Gavaudon,58,Tulune,Tulune Brynwyn County,50,institutional,provisional-inferred,no
+577,Court of Gavaudon,58,Tulune,Tulune Morwyn County,4,institutional,provisional-inferred,no
+234,Tulune,59,Glenumbra Moors,Glenumbra Moors Caerwyn County,62,institutional,provisional-inferred,no
+234,Tulune,59,Glenumbra Moors,Glenumbra Moors Brynwyn County,62,institutional,provisional-inferred,no
+234,Tulune,59,Glenumbra Moors,Glenumbra Moors Glenwyn County,62,institutional,provisional-inferred,no
+579,Court of Tulune,59,Glenumbra Moors,Glenumbra Moors Crown County,50,institutional,provisional-inferred,no
+579,Court of Tulune,59,Glenumbra Moors,Glenumbra Moors Caerwyn County,50,institutional,provisional-inferred,no
+579,Court of Tulune,59,Glenumbra Moors,Glenumbra Moors Brynwyn County,50,institutional,provisional-inferred,no
+235,Ilessan Hills,61,Cybiades,Cybiades Glenwyn County,60,institutional,provisional-inferred,no
+235,Ilessan Hills,61,Cybiades,Cybiades Dunwyn County,60,institutional,provisional-inferred,no
+235,Ilessan Hills,61,Cybiades,Cybiades Morwyn County,60,institutional,provisional-inferred,no
+581,Court of Ilessan Hills,61,Cybiades,Cybiades Dunwyn County,40,institutional,provisional-inferred,no
+581,Court of Ilessan Hills,61,Cybiades,Cybiades Morwyn County,40,institutional,provisional-inferred,no
+412,The Host of the True Horn,7,Devilrock,Devilrock Khahad County,5,institutional,provisional-inferred,no
+358,Orsinium,27,Skeffington Wood,Skeffington Wood Caerwyn County,65,institutional,provisional-inferred,no
+358,Orsinium,27,Skeffington Wood,Skeffington Wood Brynwyn County,65,institutional,provisional-inferred,no
+358,Orsinium,27,Skeffington Wood,Skeffington Wood Glenwyn County,65,institutional,provisional-inferred,no
+598,Court of Orsinium,27,Skeffington Wood,Skeffington Wood Caerwyn County,25,institutional,provisional-inferred,no
+418,The Order of the Cup,40,Ykalon,Ykalon Dunwyn County,10,institutional,provisional-inferred,no
+362,The Quill Circus,25,Gen Rai Hammerfell village,Gen Rai Hammerfell village Darhad County,3,institutional,provisional-inferred,no
+419,The Glenmoril Witches,19,Betony,Betony Rhydwyn County,25,covert,provisional-inferred,no
+420,The Dust Witches,56,Bergama,Bergama Zarhad County,25,covert,provisional-inferred,no
+421,The Witches of Devilrock,2,Glenpoint Foothills,Glenpoint Foothills Glenwyn County,25,covert,provisional-inferred,no
+422,The Tamarilyn Witches,34,Alcaire,Alcaire Crown County,25,covert,provisional-inferred,no
+423,The Sisters of the Bluff,18,Glenpoint,Glenpoint Crown County,15,covert,provisional-inferred,no
+424,The Daughters of Wroth,17,Daggerfall,Daggerfall Crown County,25,covert,provisional-inferred,no
+425,The Skeffington Witches,41,Daenia,Daenia Crown County,30,covert,provisional-inferred,no
+425,The Skeffington Witches,41,Daenia,Daenia Caerwyn County,30,covert,provisional-inferred,no
+426,The Witches of the Marsh,49,Kozanset,Kozanset Khahad County,20,covert,provisional-inferred,no
+427,The Mountain Witches,2,Glenpoint Foothills,Glenpoint Foothills Brynwyn County,25,covert,provisional-inferred,no
+428,The Daggerfall Witches,18,Glenpoint,Glenpoint Penwyn County,20,covert,provisional-inferred,no
+429,The Beldama,33,Menevia,Menevia Crown County,25,covert,provisional-inferred,no
+430,The Sisters of Kykos,12,Islands in the Western Iliac Bay,Islands in the Western Iliac Bay Crown County,20,covert,provisional-inferred,no
+431,The Tide Witches,52,Mournoth,Mournoth Tanhad County,15,covert,provisional-inferred,no
+432,The Witches of Alcaire,35,Koegria,Koegria Rhydwyn County,10,covert,provisional-inferred,no
+513,The Fey,28,Hammerfell bay coast,Hammerfell bay coast Alhad County,50,institutional,provisional-inferred,no
+513,The Fey,28,Hammerfell bay coast,Hammerfell bay coast Darhad County,50,institutional,provisional-inferred,no
+513,The Fey,28,Hammerfell bay coast,Hammerfell bay coast Khahad County,50,institutional,provisional-inferred,no
+502,Wrothgaria,17,Daggerfall,Daggerfall Caerwyn County,5,institutional,provisional-inferred,no
+503,Court of Wrothgaria,17,Daggerfall,Daggerfall Glenwyn County,4,institutional,provisional-inferred,no
+505,Dragontail,2,Glenpoint Foothills,Glenpoint Foothills Brynwyn County,35,institutional,provisional-inferred,no
+505,Dragontail,2,Glenpoint Foothills,Glenpoint Foothills Glenwyn County,35,institutional,provisional-inferred,no
+506,Court of Dragontail,2,Glenpoint Foothills,Glenpoint Foothills Caerwyn County,5,institutional,provisional-inferred,no
+508,Alik'ra,1,Dragontail Mountains,Dragontail Mountains Darhad County,5,institutional,provisional-inferred,no
+509,Court of Alik'ra,1,Dragontail Mountains,Dragontail Mountains Khahad County,25,institutional,provisional-inferred,no
+591,Dak'fron,12,Islands in the Western Iliac Bay,Islands in the Western Iliac Bay Glenwyn County,5,institutional,provisional-inferred,no
+592,Court of Dak'fron,12,Islands in the Western Iliac Bay,Islands in the Western Iliac Bay Glenwyn County,25,institutional,provisional-inferred,no
+199,Isle of Balfiera,10,Bantha,Bantha Alhad County,5,institutional,provisional-inferred,no
+244,Court of Balfiera,10,Bantha,Bantha Alhad County,25,institutional,provisional-inferred,no
+196,Glenumbra Moors,60,Ilessan Hills,Ilessan Hills Crown County,30,institutional,provisional-inferred,no
+196,Glenumbra Moors,60,Ilessan Hills,Ilessan Hills Caerwyn County,30,institutional,provisional-inferred,no
+195,Court of Glenumbra Moors,60,Ilessan Hills,Ilessan Hills Penwyn County,20,institutional,provisional-inferred,no
